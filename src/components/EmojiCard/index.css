@@ -1,0 +1,12 @@
+/* Write your code here. */
+button {
+  padding: 0.5em;
+  border-radius: 0.3em;
+  background-color: #ffffff33;
+  border: 2px solid #ffffff33;
+  margin: 4px;
+}
+
+li img {
+  height: 150px;
+}

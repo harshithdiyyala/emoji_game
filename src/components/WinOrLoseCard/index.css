@@ -1,0 +1,33 @@
+/* Write your code here. */
+.win-lose-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff33;
+  padding: 1.5em;
+  margin: 1em;
+  border-radius: 0.5em;
+  border: 2px solid #ffffff33;
+}
+.win-lose-card-display-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+h1 p {
+  color: white;
+  padding-bottom: 0.5em;
+}
+
+.score {
+  color: #6a59ff;
+}
+
+.play-again-button {
+  background-color: #ffce27;
+  border-radius: 10px;
+  padding: 0.3em;
+  color: black;
+}

@@ -1,0 +1,20 @@
+/* Write your code here. */
+.emoji-game-page {
+  height: 100vh;
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  font-family: 'Roboto';
+}
+.game-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+}
